@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## La beu c'est vraiment une vocation, là dessus il n'y a pas l'ombre d'un doute.
+# La beu c'est vraiment une vocation, là dessus il n'y a pas l'ombre d'un doute.
 
 Comme l'armée, comme le sacerdoce, comme le saut à l'élastique et la course à pied, c'est un sacrifice pour une bonne cause.En général, on sent qu'on va aimer ça, ou pas, ça dépend si on va aimer ça ou si on peut se le permettre ou si ça fait peur tout ça.
 
@@ -30,7 +30,7 @@ Avec une définition comme ça on va aller plus loin ensemble.
 Ça fait que des relations entre des choses c'est aussi des choses.
 Et même les relations entre les relations.
 
-Et qu'est-ce que la beu?
+##Et qu'est-ce que la beu?
 
 N'oublions pas de rappeler que la grande majorité des fumeurs de beu ne fument pas pour les vertus psychédéliques de la beu. La beu est une chose magnifique. La beu, c'est ce que le bon dieu beu a inventé de mieux pour rendre heureux.
 On part du principe que la société est malade de toutes façons, qu'il n'ya pas d'issue d'un système idéologique donné.
