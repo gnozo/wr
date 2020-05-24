@@ -2,16 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
 ## La beu c'est vraiment une vocation, là dessus il n'y a pas l'ombre d'un doute.
 
 Comme l'armée, comme le sacerdoce, comme le saut à l'élastique et la course à pied, c'est un sacrifice pour une bonne cause.En général, on sent qu'on va aimer ça, ou pas, ça dépend si on va aimer ça ou si on peut se le permettre ou si ça fait peur tout ça.
