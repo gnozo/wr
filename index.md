@@ -46,10 +46,12 @@ N'oublions pas de rappeler que la grande majorité des fumeurs de beu ne fument 
 On part du principe que la société est malade de toutes façons, qu'il n'ya pas d'issue d'un système idéologique donné.
 La société, un bien grand mot pour déguiser toute la sottise que les énarques imputent à leur peuple pourtant docile. Si la société est malade comme un corps est malade, alors d'accord, ça explique pourquoi certaines cellules-individus meurent.
 
-```Ça explique aussi pourquoi et dans quel type de rythme de nouveaux cellules-individus peuvent apparaître. La société, poursuivons la réduction, comme un muscle surtendu par l'effort intrépide et permanent. L'aventure, ça creuse. Le réductionnisme aussi, ça élimine sec. Les cellules saturées d'acides aminés crépitent alors que le cortex préfrontal esquisse une métalepse et la traduit en images. Comme la société est tendue, il faut la détendre, c'est normal. Et pour ça la société a tout prévu. Elle contient suffisemment de neuro-récepteurs et de fibre extensibles pour pouvoir se permettre une certaine flexibilité. Alors pour tous les individus qui souhaitent procurer le repos à leurs maîgres portions de fibres musculaires, il y a la beu.
-```
+Ça explique aussi pourquoi et dans quel type de rythme de nouveaux cellules-individus peuvent apparaître. La société, poursuivons la réduction, comme un muscle surtendu par l'effort intrépide et permanent. L'aventure, ça creuse. Le réductionnisme aussi, ça élimine sec. Les cellules saturées d'acides aminés crépitent alors que le cortex préfrontal esquisse une métalepse et la traduit en images. Comme la société est tendue, il faut la détendre, c'est normal. Et pour ça la société a tout prévu. Elle contient suffisemment de neuro-récepteurs et de fibre extensibles pour pouvoir se permettre une certaine flexibilité. Alors pour tous les individus qui souhaitent procurer le repos à leurs maîgres portions de fibres musculaires, il y a la beu.
 
-La beu est un profond relaxant. La beu - si c'est une fille - est un - classe d'objets masculinisés pour leur éminence - profond - adjectif - relaxant - attribut associé. Ce qui est bien avec la beu c'est que c'est facile. Même quand il pleut, la beu elle te dit la même chose. C'est une plante qui parle pas beaucoup, mais elle parle quand même, on entend quelques murmures sous les chromosomes.
+```
+La beu est un profond relaxant. ```
+
+La beu - si c'est une fille - est un - classe d'objets masculinisés pour leur éminence - profond - adjectif - relaxant - attribut associé. Ce qui est bien avec la beu c'est que c'est facile. Même quand il pleut, la beu elle te dit la même chose. C'est une plante qui parle pas beaucoup, mais elle parle quand même, on entend quelques murmures sous les chromosomes.
 
 Alors oui, la beu a des effets psychotropes. Elle peut être associée à des formes de pensée modale, comme le langage, la musique, le comportement. La beu amplifie beaucoup les choses. Elle filtre aussi, avant et après, la sensibilité.
 
@@ -61,14 +63,6 @@ Après une prise - nous reviendrons plus tard sur la question des méthodes d'in
 Une fois l'état nouveau est reconnu - si tant est qu'il s'agisse d'une première fois, le cerveau comprend très vite ce qui lui arrive. Une sensation de grésillement, les phénomènes sont plus contrastés qu'à jeun.
 À jeu, il faut en parler. Parfois, on est à jeun. Parfois, on ne fume pas de beu pendant longtemps et l'état de l'être, nu, sans répit, se dégrade. La transition est toujours le moment le plus intéressant.
 On peut parler de transitions à plusieurs niveaux :
-
-
-| physiques        | sociaux          | psychiques | phénomène tel qu'il est perçu | tel qu'on prend conscience qu'il a été|
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 1. Le niveau des événements sociaux
 2. Le niveau des événements physiques
