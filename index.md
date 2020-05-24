@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-##La beu c'est vraiment une vocation, là dessus il n'y a pas l'ombre d'un doute.
+## La beu c'est vraiment une vocation, là dessus il n'y a pas l'ombre d'un doute.
 
 Comme l'armée, comme le sacerdoce, comme le saut à l'élastique et la course à pied, c'est un sacrifice pour une bonne cause.En général, on sent qu'on va aimer ça, ou pas, ça dépend si on va aimer ça ou si on peut se le permettre ou si ça fait peur tout ça.
 
@@ -25,8 +25,8 @@ Pour comprendre la psychologie du fumeur de beu il faut avoir à l'esprit que la
 
 La beu permet de regarder la réalité se faire pendant qu'elle se fait.Ça se tricotte : et vous pouvez observer confortablement. C'est le luxe de la beu. Simultanément, les possibilités adverses, converses, les conséquences, les conditionnels... À un niveau plus élevé que d'habitude. Si l'état normal de l'être humain stressé par le flux de son quotidien est à 1, la beu permet d'atteindre un semblant de 0 rapidement.Elle implique peu de risques, mais peut être associée à des contextes risqués.
 
-C'est comme une voiture, avec le luxe de pouvoir l'emboutir : la réalité déborde sur elle-même avec la beu.
-On est en excès de réalité, les phénomènes tachent, ils coulent les uns sur les autres, on perd la faculté d'énumérer nettement des éléments.
+>C'est comme une voiture, avec le luxe de pouvoir l'emboutir : la réalité déborde sur elle-même avec la beu.
+>On est en excès de réalité, les phénomènes tachent, ils coulent les uns sur les autres, on perd la faculté d'énumérer nettement des éléments.
 
 Du moins la beu rajoute un calque à la conscience, qui devient témoin d'elle-même, donc complice, et donc doublement investie émotionnellement. Avec la beu, on a l'impression que sans c'était différent. Alors que précisément c'est le contraire : avec, c'était pareil. Il y a une innocence de la beu, quelque chose comme la découverte perpétuelle de phénomènes divers.
 -des phénomènes fréquents seront examinés de près.
@@ -46,7 +46,8 @@ N'oublions pas de rappeler que la grande majorité des fumeurs de beu ne fument 
 On part du principe que la société est malade de toutes façons, qu'il n'ya pas d'issue d'un système idéologique donné.
 La société, un bien grand mot pour déguiser toute la sottise que les énarques imputent à leur peuple pourtant docile. Si la société est malade comme un corps est malade, alors d'accord, ça explique pourquoi certaines cellules-individus meurent.
 
-Ça explique aussi pourquoi et dans quel type de rythme de nouveaux cellules-individus peuvent apparaître. La société, poursuivons la réduction, comme un muscle surtendu par l'effort intrépide et permanent. L'aventure, ça creuse. Le réductionnisme aussi, ça élimine sec. Les cellules saturées d'acides aminés crépitent alors que le cortex préfrontal esquisse une métalepse et la traduit en images. Comme la société est tendue, il faut la détendre, c'est normal. Et pour ça la société a tout prévu. Elle contient suffisemment de neuro-récepteurs et de fibre extensibles pour pouvoir se permettre une certaine flexibilité. Alors pour tous les individus qui souhaitent procurer le repos à leurs maîgres portions de fibres musculaires, il y a la beu.
+```Ça explique aussi pourquoi et dans quel type de rythme de nouveaux cellules-individus peuvent apparaître. La société, poursuivons la réduction, comme un muscle surtendu par l'effort intrépide et permanent. L'aventure, ça creuse. Le réductionnisme aussi, ça élimine sec. Les cellules saturées d'acides aminés crépitent alors que le cortex préfrontal esquisse une métalepse et la traduit en images. Comme la société est tendue, il faut la détendre, c'est normal. Et pour ça la société a tout prévu. Elle contient suffisemment de neuro-récepteurs et de fibre extensibles pour pouvoir se permettre une certaine flexibilité. Alors pour tous les individus qui souhaitent procurer le repos à leurs maîgres portions de fibres musculaires, il y a la beu.
+```
 
 La beu est un profond relaxant. La beu - si c'est une fille - est un - classe d'objets masculinisés pour leur éminence - profond - adjectif - relaxant - attribut associé. Ce qui est bien avec la beu c'est que c'est facile. Même quand il pleut, la beu elle te dit la même chose. C'est une plante qui parle pas beaucoup, mais elle parle quand même, on entend quelques murmures sous les chromosomes.
 
@@ -60,11 +61,20 @@ Après une prise - nous reviendrons plus tard sur la question des méthodes d'in
 Une fois l'état nouveau est reconnu - si tant est qu'il s'agisse d'une première fois, le cerveau comprend très vite ce qui lui arrive. Une sensation de grésillement, les phénomènes sont plus contrastés qu'à jeun.
 À jeu, il faut en parler. Parfois, on est à jeun. Parfois, on ne fume pas de beu pendant longtemps et l'état de l'être, nu, sans répit, se dégrade. La transition est toujours le moment le plus intéressant.
 On peut parler de transitions à plusieurs niveaux :
-1-le niveau des événements sociaux
-2-le niveau des événements physiques
-3-le niveau des événements psychiques (internes ou intersubjectifs)
-4-le niveau des phénomènes tels qu'ils sont perçus
-5-le niveau des phénomènes tels qu'on prend conscience qu'ils ont été vécus après leur réalisation
+
+
+| physiques        | sociaux          | psychiques | phénomène tel qu'il est perçu | tel qu'on prend conscience qu'il a été|
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+1. Le niveau des événements sociaux
+2. Le niveau des événements physiques
+3. Le niveau des événements psychiques (internes ou intersubjectifs)
+4. Le niveau des phénomènes tels qu'ils sont perçus
+5. Le niveau des phénomènes tels qu'on prend conscience qu'ils ont été vécus après leur réalisation
 
 Ce dernier niveau est un point de friction essentiel avec l'expérience ordinaire. Dans le flux de l'expérience consciente usuelle, la conscience ne se donne que peu de temps et d'attention. Dans les faits, une telle énergie est consommée à intégrer les stimuli de toutes provenances. Il faut les router, leur indiquer où aller, c'est parfois pénible, on se sent un peu gendarme ou postier. On doit remettre l'information à la suivante. La suivante?
 
@@ -74,11 +84,11 @@ D'une part la beu nous apprend quelque chose sur la nature de l'esprit, à savoi
 
 Est-ce que la beu exprime un sentiment d'organisation? Oui, tout à fait, on peut le dire. C'est déplorable, mais c'est ainsi. Ce qui est déplorable, c'est l'inaptitude du fumeur à dissocier la beu du système dans lequel il l'utilise. La beu a pour but de sevrer la conscience à travers une sédation intentionnelle provoquant des arbres causaux simultanés. Si on donnait le volant à la beu, elle irait droit dans le mur ou elle arrêterait la voiture ou autre chose, c'est pas le problème. 
 
-###Si la beu était président.e de la république, il y aurait beaucoup plus d'hésitations dans l'état-major.
+### Si la beu était président.e de la république, il y aurait beaucoup plus d'hésitations dans l'état-major.
 
 Si la société est malade comme un corps est malade, alors la beu est bien un agent qui joue un rôle dans l'expérience quotidienne de ses utilisateurs. Un agent endogène, tout comme le divertissement de masse, la nécessité de trouver des méthodes de subsistance financière, et autres broutille. On peut probablement apprendre beaucoup de la différence entre une société vue comme une chose et une société vue comme des relations entre des choses - dont on a dit ce qu'on pensait plus haut.
 
-##Je veux être l'avocat de la beu. La beu n'est pas responsable de la fonction qu'elle occupe dans l'ordonnancement des obéissances civiques.
+## Je veux être l'avocat de la beu. La beu n'est pas responsable de la fonction qu'elle occupe dans l'ordonnancement des obéissances civiques.
 
 La beu n'est responsable que de ce qu'elle dit, et en l'occurrence son propos n'a pas vocation à être moral. Le discours tenu par la beu est le suivant : écoute je sais pas ce que t'as pris mais wow. L'idée est que l'expérience usuelle du réel est en soi un état modifié de conscience. Modifier l'état d'une conscience à l'intérieur d'une opération de modification d'état de conscience. Cet effet de miroir déformant en a obsédé plus d'un à n'en plus finir.
 
@@ -87,7 +97,7 @@ La beu n'est responsable que de ce qu'elle dit, et en l'occurrence son propos n'
 La relation entre la beu et la factualité est comme la grande scène de négociation d'un consul européen sur le bazar du Caire en 1920. La beu est fondamentalement contrefactuelle. Elle sabote les faits en en grignottant la certitude.
 Ici on touche au rapport de la beu avec la mémoire, et c'est pas joli joli enfin ça dépend de quel côté on se place, du coup. D'un côté, sous beu, on peut facilement perdre la notion même de quantité, car elle dramatise la transition entre différents phénomènes. On prend soudain conscience qu'un nouvel état mental est né. On reçoit une notification directement dans notre cerveau. Et puis il est question d'une liste d'éléments quelconque, dans l'état de pensée précédant... C'était quoi déjà?
 
-####Ici l'aspect le plus pathétique du fumeur de joints : "c'était quoi déjà?"
+#### Ici l'aspect le plus pathétique du fumeur de joints : "c'était quoi déjà?"
 
 Son moment héroïque, c'était ça : "mais à la fois". La mère de toutes les inventions, ce départ pour l'aventure audacieux et au galop. Mais c'était quoi déjà? Il y avait combien de quoi déjà?
 
@@ -107,10 +117,10 @@ Comme on fume beaucoup et que ça implique des paquets de feuilles, on compte ra
 -c'était quoi déjà? (synonyme : choix arbitraire de la conscience en fonction de motifs vagues, niveau -1)
 
 Pourquoi niveau -1? Parce que ce qui est au coeur de notre expérience perceptive n'est pas forcément au centre de nos préoccupations conscientes. On devrait peut être partir d'un niveau 0 comme la réalité des phénomènes.
--la réalité niveau zéro c'est simplement l'existence de corps étendus dans l'espace-temps.
--la réalité niveau un c'est leur interaction, les boucles d'auto-réplication, une version idéale de l'intersubjectivité, ou tout du moins une référence mentale à laquelle on raccroche l'expérience consciente.
--la réalité niveau deux, c'est la puissance d'interaction de l'individu déployée sur toutes ses parties : on appelle ça le rêve, mais il s'agit pplus largement de l'activation simultanée de grandes assemblées de neurones.
--la réalité niveau trois, c'est l'effet de l'interaction des parties, des catégories sub-individuelles. Un rêve parle à un autre rêve.
+* la réalité niveau zéro c'est simplement l'existence de corps étendus dans l'espace-temps.
+* la réalité niveau un c'est leur interaction, les boucles d'auto-réplication, une version idéale de l'intersubjectivité, ou tout du moins une référence mentale à laquelle on raccroche l'expérience consciente.
+* la réalité niveau deux, c'est la puissance d'interaction de l'individu déployée sur toutes ses parties : on appelle ça le rêve, mais il s'agit pplus largement de l'activation simultanée de grandes assemblées de neurones.
+* la réalité niveau trois, c'est l'effet de l'interaction des parties, des catégories sub-individuelles. Un rêve parle à un autre rêve.
 
 C'est bien parce que ça va nous permettre de nous repérer : on est principalement toujours dans le niveau un. Avec la beu, le niveau deux devient compatible avec l'expérience du niveau un : c'était quoi déjà? La rapidité avec laquelle on produit une nouvelle trame qui recouvre plus ou moins bien les phénomènes perçus n'est ni plus rapide ni plus lente avec la beu.
 
@@ -122,7 +132,7 @@ Où sont passés tous ces rêves volés par la beu à ces charmants bambins qui 
 
 A-t-il jamais été aussi libre qu'aujourd'hui? Oui, tout à fait. Cela fait des siècles que l'espace onirique a été jeté dans l'opprobre par les forces de la raison lumineuse. En clair : la société civile ne fait aucun usage des rêves des individus. Le sommeil paradoxal est un objet d'étude scientifique loin de l'expérience qu'on fait de ses rêves. On peut présumer pourtant que les rêves peuvent faire l'objet d'une étude minutieuse, par le journal de bord par exemple.
 
-###On aurait tout à fait tort de croire que :
+### On aurait tout à fait tort de croire que :
 1-les écrits de rêves sont identiques aux récits mentaux de rêves
 2-les récits mentaux de rêves sont identiques aux souvenirs de rêves
 3-les souvenirs des rêves sont identiques au rêves
@@ -146,7 +156,7 @@ Le réveil, quand on a fumé, c'est toujours la beu. On ne se remet pas d'une so
 
 Avant qu'elle parte on a toujours un sentiment de nostalgie. On espère retrouver cette amie qui nous avait tant manqué. Et l'addiction n'est qu'une façon d'aborder le sujet. On peut sortir de la beu et retrouver l'état de tension abêtie qu'attend de nous le système parlementaire pute à clic de base. Mais on sait qu'il y a tout ces arbres de possibles derrière chacune des choses qu'on rencontre, alors venez pas nous la faire.
 
-###Genre "tel truc est tel truc". C'était quoi déjà?
+### Genre "tel truc est tel truc". C'était quoi déjà?
 
 La beu rentre en conflagration quasi-mortelle avec le capital dans le domaine du divertissement. Elle constitue à elle seule un ennemi, une alternative, un ersatz de divertissement. Non qu'elle ne soit lucrative, mais pas de la même manière que le divertissement. On ne peut pas contrôler une population avec de la beu. On peut la contrôler avec de la culture. Une culture plus une beu ça fait toujours de la culture, même si c'est un bouillon. La beu se dissout en quelque sorte dans la culture.
 
@@ -162,14 +172,14 @@ Malheureusment la beu est instrumentalisée dans le commerce de divertissement e
 La représentation de la beu dans l'industrie du divertissement est une source de clichés riche et variée. Elle donne à voir le contrôle de l'industrie du divertissement sur les comportements des utilisateurs de divertissement, avec ou sans beu. Un autre miroir déformant intriguant, dérisoire et inquiétant.
 
 Le picaresque passe facilement pour de l'héroïsme avec la beu, et les gouffres émotionnels succcessifs qui peuvent survenir brutalement laissent parfois étonné. On perçoit des pensées striées, modulées par un signal de base qu'est la beu. L'action de la beu sur la conscience se déroule en deux étapes :
-1-avant la beu
-2-après la beu
+1. Avant la beu
+2. Après la beu
 
 Le chemin peut être parcouru de manière répétée. Les prises peuvent être regroupées ou espacées. Il y a plus d'états intermédiaires que de de possibilités, c'est dire à quel point le champ est vaste. Impossible de ne pas parler de risque.
 
 Comme la beu ouvre le champ des possibles, elle ouvre proportionnellement le champ des risques et leurs combinatoires. Dans un monde où aucun phénomène ne ressemble à aucun autre très exactement, tout finit par être étranger. La possibilité même de la précision fait défaut par moments. Les relations se modifient au fur et à mesure que la page blanche, l'état de découverte, est convoqué. 
 
-###Cet état a déjà été décrit : c'est l'état d'étonnement, d'émerveillement, au réveil, "c'était quoi déjà"?
+### Cet état a déjà été décrit : c'est l'état d'étonnement, d'émerveillement, au réveil, "c'était quoi déjà"?
 
 Une chose est de laisser la beu intervenir dans tout : c'en est une autre de la proscrire entièrement. Dès que des points de rencontre sont engagés, ils ouvrent la possibilité à toute polytoxicomanie putative.
 -boire un verre de vin en mangeant : ok.
@@ -183,11 +193,6 @@ Ou boire une menthe à l'eau pas la même saveur à la plage que dans un igloo.
 C'est dire le type de variation d'humeur que peut impliquer la transition entre différents états de conscience potentiellement distants l'un de l'autre. Consommer : c'est déjà exister, accepter une représentation de soi-même dans un certain contexte idéologique. OK, je suis une cible et vous me connaissez mieux que moi on dirait. Cool.
 
 ##Au diable l'avarice! Pourvu qu'on ait l'ivresse.
-
-
-
-
-
 
 
 
