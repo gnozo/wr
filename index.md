@@ -38,8 +38,7 @@ La société, un bien grand mot pour déguiser toute la sottise que les énarque
 
 Ça explique aussi pourquoi et dans quel type de rythme de nouveaux cellules-individus peuvent apparaître. La société, poursuivons la réduction, comme un muscle surtendu par l'effort intrépide et permanent. L'aventure, ça creuse. Le réductionnisme aussi, ça élimine sec. Les cellules saturées d'acides aminés crépitent alors que le cortex préfrontal esquisse une métalepse et la traduit en images. Comme la société est tendue, il faut la détendre, c'est normal. Et pour ça la société a tout prévu. Elle contient suffisemment de neuro-récepteurs et de fibre extensibles pour pouvoir se permettre une certaine flexibilité. Alors pour tous les individus qui souhaitent procurer le repos à leurs maîgres portions de fibres musculaires, il y a la beu.
 
-```
-La beu est un profond relaxant. ```
+##La beu est un profond relaxant. 
 
 La beu - si c'est une fille - est un - classe d'objets masculinisés pour leur éminence - profond - adjectif - relaxant - attribut associé. Ce qui est bien avec la beu c'est que c'est facile. Même quand il pleut, la beu elle te dit la même chose. C'est une plante qui parle pas beaucoup, mais elle parle quand même, on entend quelques murmures sous les chromosomes.
 
@@ -178,114 +177,6 @@ C'est dire le type de variation d'humeur que peut impliquer la transition entre 
 
 ##Au diable l'avarice! Pourvu qu'on ait l'ivresse.
 
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+C'est comme ça.
 ```
