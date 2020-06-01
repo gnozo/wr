@@ -3,8 +3,8 @@ layout: default
 ---
 
 # Des écrits sur des choses en vue d'autres choses
-  1- <a href="https://gnozo.github.io/wr/notes">notes</a>
-  2- à venir
+  1. <a href="https://gnozo.github.io/wr/notes">notes</a>
+  2. à venir
 
 ## La beu c'est vraiment une vocation, là dessus il n'y a pas l'ombre d'un doute.
 
