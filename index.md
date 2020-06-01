@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Des écrits sur des choses en vue d'autres choses
+# Des écrits sur des choses en vue d'autres choses
   1- <a href="https://gnozo.github.io/wr/notes">notes</a>
   2- à venir
 
@@ -12,20 +12,20 @@ Comme l'armée, comme le sacerdoce, comme le saut à l'élastique et la course �
 
 Mais bien au delà de la découverte de la beu, ou l'usage soi-disant récréatif ponctuel non-contractuel, ce dont je parle c'est la beu au quotidien. Tous les jours la beu. La même, avec ses défauts et ses qualités. Et puis soudain elle vous quitte. Vous avez plus de beu. C'est la dèche. Vous pouvez chier des lingots et manger du pâté de foie gras tout ce que vous voulez. Quand il n'ya plus de beu, c'est quand même la dèche, incomparable même avec la dernière goutte d'une bouteille de whiskey.
 
-###Le goût du whiskey : il est associé à la bouteille, au verre.
-###Le goût de la beu : il est dans l'herbe, dans l'air, dans la fumée, dans la tête. Il n'est pas associé au goût des cendres.
+### Le goût du whiskey : il est associé à la bouteille, au verre.
+### Le goût de la beu : il est dans l'herbe, dans l'air, dans la fumée, dans la tête. Il n'est pas associé au goût des cendres.
 
 Pour comprendre la psychologie du fumeur de beu il faut avoir à l'esprit que la réalité d'un phénomène n'a pas de priorité sur sa possibilité. Ce qui est possible est donc réel, il n'y a pas de différence. La beu vous projette dans l'étoffe qui constitue l'expérience usuelle du monde, mais à un degré en dessous.
 
 La beu permet de regarder la réalité se faire pendant qu'elle se fait.Ça se tricotte : et vous pouvez observer confortablement. C'est le luxe de la beu. Simultanément, les possibilités adverses, converses, les conséquences, les conditionnels... À un niveau plus élevé que d'habitude. Si l'état normal de l'être humain stressé par le flux de son quotidien est à 1, la beu permet d'atteindre un semblant de 0 rapidement.Elle implique peu de risques, mais peut être associée à des contextes risqués.
 
->C'est comme une voiture, avec le luxe de pouvoir l'emboutir : la réalité déborde sur elle-même avec la beu.
->On est en excès de réalité, les phénomènes tachent, ils coulent les uns sur les autres, on perd la faculté d'énumérer nettement des éléments.
+> C'est comme une voiture, avec le luxe de pouvoir l'emboutir : la réalité déborde sur elle-même avec la beu.
+> On est en excès de réalité, les phénomènes tachent, ils coulent les uns sur les autres, on perd la faculté d'énumérer nettement des éléments.
 
 Du moins la beu rajoute un calque à la conscience, qui devient témoin d'elle-même, donc complice, et donc doublement investie émotionnellement. Avec la beu, on a l'impression que sans c'était différent. Alors que précisément c'est le contraire : avec, c'était pareil. Il y a une innocence de la beu, quelque chose comme la découverte perpétuelle de phénomènes divers.
--des phénomènes fréquents seront examinés de près.
--des phénomènes rares seront examinés de près.
--des phénomènes impossibles seront constatés et rationnalisés.
+- des phénomènes fréquents seront examinés de près.
+- des phénomènes rares seront examinés de près.
+- des phénomènes impossibles seront constatés et rationnalisés.
 
 Mais reprenons à la base : qu'est-ce qu'une chose?
 
@@ -34,7 +34,7 @@ Avec une définition comme ça on va aller plus loin ensemble.
 Ça fait que des relations entre des choses c'est aussi des choses.
 Et même les relations entre les relations.
 
-##Et qu'est-ce que la beu?
+## Et qu'est-ce que la beu?
 
 N'oublions pas de rappeler que la grande majorité des fumeurs de beu ne fument pas pour les vertus psychédéliques de la beu. La beu est une chose magnifique. La beu, c'est ce que le bon dieu beu a inventé de mieux pour rendre heureux.
 On part du principe que la société est malade de toutes façons, qu'il n'ya pas d'issue d'un système idéologique donné.
@@ -42,7 +42,7 @@ La société, un bien grand mot pour déguiser toute la sottise que les énarque
 
 Ça explique aussi pourquoi et dans quel type de rythme de nouveaux cellules-individus peuvent apparaître. La société, poursuivons la réduction, comme un muscle surtendu par l'effort intrépide et permanent. L'aventure, ça creuse. Le réductionnisme aussi, ça élimine sec. Les cellules saturées d'acides aminés crépitent alors que le cortex préfrontal esquisse une métalepse et la traduit en images. Comme la société est tendue, il faut la détendre, c'est normal. Et pour ça la société a tout prévu. Elle contient suffisemment de neuro-récepteurs et de fibre extensibles pour pouvoir se permettre une certaine flexibilité. Alors pour tous les individus qui souhaitent procurer le repos à leurs maîgres portions de fibres musculaires, il y a la beu.
 
-##La beu est un profond relaxant. 
+## La beu est un profond relaxant. 
 
 La beu - si c'est une fille - est un - classe d'objets masculinisés pour leur éminence - profond - adjectif - relaxant - attribut associé. Ce qui est bien avec la beu c'est que c'est facile. Même quand il pleut, la beu elle te dit la même chose. C'est une plante qui parle pas beaucoup, mais elle parle quand même, on entend quelques murmures sous les chromosomes.
 
@@ -79,7 +79,7 @@ Si la société est malade comme un corps est malade, alors la beu est bien un a
 
 La beu n'est responsable que de ce qu'elle dit, et en l'occurrence son propos n'a pas vocation à être moral. Le discours tenu par la beu est le suivant : écoute je sais pas ce que t'as pris mais wow. L'idée est que l'expérience usuelle du réel est en soi un état modifié de conscience. Modifier l'état d'une conscience à l'intérieur d'une opération de modification d'état de conscience. Cet effet de miroir déformant en a obsédé plus d'un à n'en plus finir.
 
-###L'essentiel dans la beu c'est qu'il y a toujours une arborescence de choix possibles, qui s'opposent la la factualité.
+### L'essentiel dans la beu c'est qu'il y a toujours une arborescence de choix possibles, qui s'opposent la la factualité.
 
 La relation entre la beu et la factualité est comme la grande scène de négociation d'un consul européen sur le bazar du Caire en 1920. La beu est fondamentalement contrefactuelle. Elle sabote les faits en en grignottant la certitude.
 Ici on touche au rapport de la beu avec la mémoire, et c'est pas joli joli enfin ça dépend de quel côté on se place, du coup. D'un côté, sous beu, on peut facilement perdre la notion même de quantité, car elle dramatise la transition entre différents phénomènes. On prend soudain conscience qu'un nouvel état mental est né. On reçoit une notification directement dans notre cerveau. Et puis il est question d'une liste d'éléments quelconque, dans l'état de pensée précédant... C'était quoi déjà?
@@ -99,9 +99,9 @@ Et c'est encore l'heure de parler des méthodes de consommation et de leurs déf
 On pourrait montrer que manger de la beu provoque un manque de magnésium globalisé, que les reins souffrent quand on la fume, sans parler des poumons - et la mémoire, c'était quoi déjà? Par contre si c'est fumé, ça intervient dans des interstices de temps pré-découpées.
 
 Comme on fume beaucoup et que ça implique des paquets de feuilles, on compte rarement et pourtant l'image reste pregnante. On expérimente sous différents aspects le même phénomène :
--s'il est réel (synonyme : sensible, niveau 1)
--s'il est possible (synonyme : conditionnel, niveau 0)
--c'était quoi déjà? (synonyme : choix arbitraire de la conscience en fonction de motifs vagues, niveau -1)
+- s'il est réel (synonyme : sensible, niveau 1)
+- s'il est possible (synonyme : conditionnel, niveau 0)
+- c'était quoi déjà? (synonyme : choix arbitraire de la conscience en fonction de motifs vagues, niveau -1)
 
 Pourquoi niveau -1? Parce que ce qui est au coeur de notre expérience perceptive n'est pas forcément au centre de nos préoccupations conscientes. On devrait peut être partir d'un niveau 0 comme la réalité des phénomènes.
 * la réalité niveau zéro c'est simplement l'existence de corps étendus dans l'espace-temps.
@@ -178,8 +178,8 @@ Comme fumer une clope à la pause ne provoque pas la même sensation  qu'après 
 Ou boire une menthe à l'eau pas la même saveur à la plage que dans un igloo.
 
 C'est dire le type de variation d'humeur que peut impliquer la transition entre différents états de conscience potentiellement distants l'un de l'autre. Consommer : c'est déjà exister, accepter une représentation de soi-même dans un certain contexte idéologique. OK, je suis une cible et vous me connaissez mieux que moi on dirait. Cool.
-
-##Au diable l'avarice! Pourvu qu'on ait l'ivresse.
+ 
+## Au diable l'avarice! Pourvu qu'on ait l'ivresse.
 
 ```
 C'est comme ça.
