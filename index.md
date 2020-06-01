@@ -2,7 +2,11 @@
 layout: default
 ---
 
-# La beu c'est vraiment une vocation, là dessus il n'y a pas l'ombre d'un doute.
+#Des écrits sur des choses en vue d'autres choses
+  1- <a href="https://gnozo.github.io/wr/notes">notes</a>
+  2- à venir
+
+## La beu c'est vraiment une vocation, là dessus il n'y a pas l'ombre d'un doute.
 
 Comme l'armée, comme le sacerdoce, comme le saut à l'élastique et la course à pied, c'est un sacrifice pour une bonne cause.En général, on sent qu'on va aimer ça, ou pas, ça dépend si on va aimer ça ou si on peut se le permettre ou si ça fait peur tout ça.
 
