@@ -7,7 +7,8 @@ layout: default
 
 ## Al Hubbard : the alternative Leary
    https://en.wikipedia.org/wiki/Alfred_Matthew_Hubbard
-## opponent to Leary : Jerome Lettvin https://en.wikipedia.org/wiki/Jerome_Lettvin
+## opponent to Leary : Jerome Lettvin 
+   https://en.wikipedia.org/wiki/Jerome_Lettvin
    https://www.youtube.com/watch?v=Gq3Fp-xp0l0
    https://en.wikipedia.org/wiki/Leary%E2%80%93Lettvin_debate
    https://www.thecrimson.com/article/1967/5/4/leary-and-lettvin-clash-on-drugs/
